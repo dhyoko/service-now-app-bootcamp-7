@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="DELETE">
+        <label/>
+        <name>ih_import_FD9a8749e1e121311000435f94b50d7a8d</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>5637c1e1972131103df3b380f053afd4</scope_name>
+        <serialized_content>{"FlowDesigner:ih_import_FD9a8749e1e121311000435f94b50d7a8d":{"u_a":"String","u_a.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"A\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_c":"String","u_c.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"C\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_b":"String","u_b.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"B\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD9a8749e1e121311000435f94b50d7a8d.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD9a8749e1e121311000435f94b50d7a8d\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 18:54:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5e8749e1972131103df3b380f053af8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD9a8749e1e121311000435f94b50d7a8d</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1126502_gest_o_0">5637c1e1972131103df3b380f053afd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">5637c1e1972131103df3b380f053afd4</sys_scope>
+        <sys_update_name>sys_complex_object_5e8749e1972131103df3b380f053af8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 18:54:08</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">5637c1e1972131103df3b380f053afd4</application>
+        <file_path/>
+        <instance_id>927cf88a1beba11852a243f4bd4bcb00</instance_id>
+        <instance_name>dev177413</instance_name>
+        <name>sys_complex_object_5e8749e1972131103df3b380f053af8d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object"><sys_complex_object action="INSERT_OR_UPDATE"><label/><name>ih_import_FD9a8749e1e121311000435f94b50d7a8d</name><namespace>FlowDesigner</namespace><scope_name>5637c1e1972131103df3b380f053afd4</scope_name><serialized_content>{"FlowDesigner:ih_import_FD9a8749e1e121311000435f94b50d7a8d":{"u_a":"String","u_a.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"A\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_c":"String","u_c.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"C\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"},"u_b":"String","u_b.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"string\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"B\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}},"FlowDesigner:ih_import_FD9a8749e1e121311000435f94b50d7a8d.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"object\",\"co_type_name\":\"ih_import_FD9a8749e1e121311000435f94b50d7a8d\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Excel Header\",\"mandatory\":\"false\",\"order\":\"0\",\"max_length\":\"0\"}"}}</serialized_content><sys_class_name>sys_complex_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 18:54:08</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5e8749e1972131103df3b380f053af8d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ih_import_FD9a8749e1e121311000435f94b50d7a8d</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1126502_gest_o_0">5637c1e1972131103df3b380f053afd4</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">5637c1e1972131103df3b380f053afd4</sys_scope><sys_update_name>sys_complex_object_5e8749e1972131103df3b380f053af8d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 18:54:08</sys_updated_on><type>complex_object_schema</type></sys_complex_object></record_update>]]></payload>
+        <payload_hash>-622339979</payload_hash>
+        <record_name>ih_import_FD9a8749e1e121311000435f94b50d7a8d</record_name>
+        <reverted_from/>
+        <source>9a37c1e1972131103df3b380f053afd6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 18:54:08</sys_created_on>
+        <sys_id>128749e1972131103df3b380f053af90</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad7fdcac20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 18:54:08</sys_updated_on>
+        <type>Complex Object</type>
+        <update_guid>5a8749e159213110334702d9c51f658f</update_guid>
+        <update_guid_history>5a8749e159213110334702d9c51f658f:-622339979</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 18:55:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_complex_object">sys_complex_object</sys_db_object>
+        <sys_id>6c1000c6fd664c70913566ef7d3ae441</sys_id>
+        <sys_metadata>5e8749e1972131103df3b380f053af8d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ih_import_FD9a8749e1e121311000435f94b50d7a8d</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1126502_gest_o_0">5637c1e1972131103df3b380f053afd4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">5637c1e1972131103df3b380f053afd4</sys_scope>
+        <sys_scope_delete display_value="">afe5549b79f54661bc30b4b51fcb4919</sys_scope_delete>
+        <sys_update_name>sys_complex_object_5e8749e1972131103df3b380f053af8d</sys_update_name>
+        <sys_update_version display_value="sys_complex_object_5e8749e1972131103df3b380f053af8d">128749e1972131103df3b380f053af90</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 18:55:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

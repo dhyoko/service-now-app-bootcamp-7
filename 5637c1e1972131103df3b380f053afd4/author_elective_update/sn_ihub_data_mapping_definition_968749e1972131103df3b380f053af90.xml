@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="DELETE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>8a67c5e1972131103df3b380f053af53</record_id>
+        <source_structure/>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-27 18:54:08</sys_created_on>
+        <sys_id>968749e1972131103df3b380f053af90</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1126502_gest_o_0">5637c1e1972131103df3b380f053afd4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">5637c1e1972131103df3b380f053afd4</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_968749e1972131103df3b380f053af90</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-27 19:07:28</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">5637c1e1972131103df3b380f053afd4</application>
+        <file_path/>
+        <instance_id>927cf88a1beba11852a243f4bd4bcb00</instance_id>
+        <instance_name>dev177413</instance_name>
+        <name>sn_ihub_data_mapping_definition_968749e1972131103df3b380f053af90</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition"><sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE"><integration_table>sys_data_source</integration_table><published_source_structure/><record_id>8a67c5e1972131103df3b380f053af53</record_id><source_structure/><sys_class_name>sn_ihub_data_mapping_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-27 18:54:08</sys_created_on><sys_id>968749e1972131103df3b380f053af90</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="Gestão de Inventário" source="x_1126502_gest_o_0">5637c1e1972131103df3b380f053afd4</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">5637c1e1972131103df3b380f053afd4</sys_scope><sys_update_name>sn_ihub_data_mapping_definition_968749e1972131103df3b380f053af90</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-27 19:07:28</sys_updated_on></sn_ihub_data_mapping_definition></record_update>]]></payload>
+        <payload_hash>-798306927</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>efbcc88724b021108c8bc6863d3fada3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-27 19:09:32</sys_created_on>
+        <sys_id>fb0b41e5972131103df3b380f053af1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ad80be2490000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-27 19:09:32</sys_updated_on>
+        <type>Integration Data Mapping Definition</type>
+        <update_guid>3b0b41e5c1213110607a98744091cd1d</update_guid>
+        <update_guid_history>3b0b41e5c1213110607a98744091cd1d:0,359a49a5e8213110bf8831e0a36c2bb5:719558156,80e78de1dc2131107a8df589220323dc:-2018535284,5e8749e1212131103e73eda345225d91:1558138741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">330b41e5972131103df3b380f053af23</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-27 19:09:32</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_data_mapping_definition">sn_ihub_data_mapping_definition</sys_db_object>
+        <sys_id>2ce777fe301347af91d91ce3e1dbc2d9</sys_id>
+        <sys_metadata>968749e1972131103df3b380f053af90</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1126502_gest_o_0">5637c1e1972131103df3b380f053afd4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">5637c1e1972131103df3b380f053afd4</sys_scope>
+        <sys_scope_delete display_value="">afe5549b79f54661bc30b4b51fcb4919</sys_scope_delete>
+        <sys_update_name>sn_ihub_data_mapping_definition_968749e1972131103df3b380f053af90</sys_update_name>
+        <sys_update_version display_value="sn_ihub_data_mapping_definition_968749e1972131103df3b380f053af90">fb0b41e5972131103df3b380f053af1d</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-27 19:09:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
